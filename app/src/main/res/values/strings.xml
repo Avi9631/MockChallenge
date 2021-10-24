@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mock Challenge</string>
+
+
+    <string name="interstitial_id">ca-app-pub-7700686769056733/9265051391</string>
+
+    <string name="banner_id">ca-app-pub-7700686769056733/2699643040</string>
+
+
+</resources>

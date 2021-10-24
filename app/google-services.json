@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "804419068224",
+    "firebase_url": "https://mockchallenge.firebaseio.com",
+    "project_id": "mockchallenge",
+    "storage_bucket": "mockchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804419068224:android:a24e7fca3bafb2029fdaa5",
+        "android_client_info": {
+          "package_name": "com.example.mockchalladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804419068224-ru927irevoeg6ki5f6smriomg4hud8j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mockchalladmin",
+            "certificate_hash": "d52797481b2c761ccc521ecce950bc3edbce2598"
+          }
+        },
+        {
+          "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSC_03QulUBSy5YgQUhCpfhZPoxSCi5uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804419068224:android:25d16ecf5372841c9fdaa5",
+        "android_client_info": {
+          "package_name": "com.example.mockchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804419068224-ps679670t7e2g6gv426ik1bkbh0cujc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mockchallenge",
+            "certificate_hash": "d52797481b2c761ccc521ecce950bc3edbce2598"
+          }
+        },
+        {
+          "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSC_03QulUBSy5YgQUhCpfhZPoxSCi5uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804419068224:android:02ad15daed60d8e89fdaa5",
+        "android_client_info": {
+          "package_name": "com.quiz.mockchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804419068224-o9a2m8sgjlcs1suit05bh2660pchff0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quiz.mockchallenge",
+            "certificate_hash": "d52797481b2c761ccc521ecce950bc3edbce2598"
+          }
+        },
+        {
+          "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSC_03QulUBSy5YgQUhCpfhZPoxSCi5uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804419068224-4vbgkm83dkkbireebsm540p61dd3r512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
